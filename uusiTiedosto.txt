@@ -1,2 +1,3 @@
 Luotu uusi tiedosto Locale repositoryyn
 lisärivi
+toinen lisärivi
